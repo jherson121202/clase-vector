@@ -1,0 +1,3 @@
+C:\Users\ADMIN\documents\visual studio 2010\Projects\Appvector\Appvector\obj\x86\Debug\Appvector.Form1.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\Appvector\Appvector\obj\x86\Debug\Appvector.Properties.Resources.resources
+C:\Users\ADMIN\documents\visual studio 2010\Projects\Appvector\Appvector\obj\x86\Debug\Appvector.csproj.GenerateResource.Cache
